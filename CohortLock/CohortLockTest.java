@@ -24,7 +24,7 @@ public class CohortLockTest {
             double avgThroughput = totalThroughput / 5;
             
             System.out.println("Threads: " + numThreads);
-            System.out.println("Fuck me");
+            System.out.println("Hello");
             System.out.println("Average Time taken: " + avgTime + " ms");
             System.out.println("Average Throughput: " + avgThroughput + " ops/s");
             System.out.println();
